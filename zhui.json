@@ -1,5 +1,4 @@
 
-
 {
 	"spider": "./Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
@@ -16,29 +15,12 @@
             "filterable": 0
         },
         
-{"key":"奇奇弹幕版","name":"🍑七七影院","type": 3,"api":"csp_AweSomeGuard","jar": "./4.jar","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext": {"sp": "QiQi", "danmu": true}, "timeout": 10},
-{
-            "key": "皮皮虾",
-            "name": "🦀皮皮虾影视",
-            "type": 3,
-            "api": "./皮皮虾.py",
-            "ext": "http://38.55.237.41:8762"
-        },
+
   {"key":"瓜子","name":"🍉瓜子影视","type": 3,"api":"csp_AweSomeGuard",
     "jar": "./gua.jar",
   "searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"sp": "Guazi", "danmu": true}, "timeout": 10},
 
-     {
-            "key": "瓜瓜影视",
-            "name": "🍉瓜瓜影视",
-            "type": 3,
-            "api": "./瓜子影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },        
+     
    {
             "key": "华数影视",
             "name": "🥜华数影视",
