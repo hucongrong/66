@@ -13,7 +13,38 @@
             "quickSearch": 0,
             "filterable": 0
         },
-        
+{
+      "key": "柠檬",
+      "name": "🍋柠檬｜影视",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "./lib/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key": "三扣",
+      "name": "🧞‍♀️山姆4K",
+      "type": 3,
+      "api": "csp_App3Q",
+      "jar": "./XM.jar"
+    },
+ {
+      "key": "橘子",
+      "name": "🍊橘子4K",
+      "type": 3,
+      "api": "./lib/apiv93Fei.py",
+      "ext": "https://dmc.yy-fun.cc/feiapp"
+    },
+      {
+      "key": "剧评",
+      "name": "💯剧评影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "jar": "./lib/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+    },        
 {"key":"csp_Guazi","name":"🍉瓜子影视","type":3,"api":"csp_Guazi","jar": "./gua.jar","searchable":1,"changeable":1},
 {"key":"王子4K","name":"🙆王子影视","type":3,"api":"csp_AppGet","jar": "./gua.jar","ext":{"host":"https://app.95112475.xyz","datakey":"5a9w6x58dsq6z3a6"}},
 {
