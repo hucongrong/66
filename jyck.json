@@ -2,22 +2,14 @@
     "urls": [
 
         {
-            "url": "https://gitee.com/hu-congrong/yz/raw/master/zhui.json",
+            "url": "https://codeberg.org/huyuting/666666/raw/branch/main/zhui.json",
             "name": "🆔追剧接口"
       },           
          {
-            "url": "https://gitee.com/hu-congrong/yz/raw/master/yz.json",
+            "url": "https://codeberg.org/huyuting/666666/raw/branch/main/yz.json",
             "name": "💖2026专业接口"
       },     
-          {
-            "url": "https://gitee.com/hu-congrong/yz/raw/master/cs.json",
-            "name": "测试接口"
-      },         
-
-        {
-            "url": "https://gitee.com/hu-congrong/ggg/raw/master/1214.json",
-            "name": "🍳龙潭秒播接口"
-      },    
+  
     
    
       {
@@ -35,12 +27,9 @@
             "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
             "name": "💽经典音乐"
         },  
-     {
-            "url": "https://gitee.com/hu-congrong/yz/raw/master/dj.json",
-            "name": "💖短剧接口"
-      },          
+        
    {
-            "name": "🍒v接口",
+            "name": "🍒vox接口",
             "url": "http://rihou.cc:88/demo.php"
         }, 
                 
@@ -52,14 +41,7 @@
             "name": "🐶OK接口",
             "url": "http://by1.nxog.eu.org//tvbox/cache/11.html"
         },        
-     {
-      "url": "https://7337.kstore.vip/tw.json",
-      "name": "💗天微影线"
-    },
-    {
-      "url": "https://7337.kstore.space/qxys/%E7%A6%81%E6%AD%A2%E4%BC%A0%E6%92%AD.json",
-      "name": "💗七星影仓"
-    },          
+     
    {
       "url": "http://tv.nxog.top/m/",
       "name": "🥝讴歌线路"
