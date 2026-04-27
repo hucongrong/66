@@ -15,7 +15,7 @@
         },
 {
       "key": "柠檬",
-      "name": "🍋柠檬｜影视",
+      "name": "🍋柠檬影视",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -24,7 +24,7 @@
     },
     {
       "key": "三扣",
-      "name": "🧞‍♀️山姆4K",
+      "name": "🏃‍♂️‍➡️山姆4K",
       "type": 3,
       "api": "csp_App3Q",
       "jar": "./XM.jar"
