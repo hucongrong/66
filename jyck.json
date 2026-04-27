@@ -2,13 +2,9 @@
     "urls": [
 
         {
-            "url": "clan://localhost/420/zhui.json",
+            "url": "https://gitee.com/hu-congrong/yz/raw/master/zhui.json",
             "name": "🆔追剧接口"
-      },  
-       {
-            "url": "clan://localhost/420/yz.json",
-            "name": "❤️2026专用接口"
-      },                        
+      },           
          {
             "url": "https://gitee.com/hu-congrong/yz/raw/master/yz.json",
             "name": "💖2026专业接口"
