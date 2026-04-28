@@ -59,7 +59,7 @@
             "ext": {
                 "sites": "",
                 "filters": "./lib/guazi.json"
-            },
+           } },
 
       {"key":"王子4K","name":"🙆王子影视","type":3,"api":"csp_AppGet","jar": "./gua.jar","ext":{"host":"https://app.95112475.xyz","datakey":"5a9w6x58dsq6z3a6"}},
 {
