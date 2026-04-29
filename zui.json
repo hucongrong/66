@@ -46,20 +46,21 @@
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },        
 {"key":"csp_Guazi","name":"🍉瓜子影视","type":3,"api":"csp_Guazi","jar": "./gua.jar","searchable":1,"changeable":1},
-{
-            "name": "🍉瓜子",
-            "key": "我是瓜子",
+{"key":"旺旺影视","name":"🐶旺旺影视","type":3,"api":"csp_XBPQ","ext":"./旺旺影视.json"},
+ {"key":"VS影视","name":"🥇VS影视","type":3,"api":"csp_XBPQ","ext":"./VS影视.json"},
+ {
+            "name": "🔥热播视频",
+            "key": "🔥热播视频",
             "type": 3,
-            "api": "csp_GuaziAmns",
-             "jar": "./lib/bdb.jar",
+            "api": "csp_RbysAmns",
+            "jar": "./lib/bdb.jar",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": {
-                "sites": "",
-                "filters": "./lib/guazi.json"
-           } },
+            "ext": "http://v.rbotv.cn"
+        },   
+
 
       {"key":"王子4K","name":"🙆王子影视","type":3,"api":"csp_AppGet","jar": "./gua.jar","ext":{"host":"https://app.95112475.xyz","datakey":"5a9w6x58dsq6z3a6"}},
 {
