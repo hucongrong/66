@@ -583,10 +583,16 @@
             "playerType": 2,
             "timeout": 10
         },      
-
+{
+            "name": "🐟3万部电视剧",
+            "type": 0,
+            "url": "https://d.kstore.dev/download/6651/000000.txt",
+            "playerType": 2,
+            "timeout": 10
+        },
   
      {
-            "name": "☀轮播直播",
+            "name": "☀轮播电影",
             "type": 0,
             "url": "https://d.kstore.dev/download/6651/d.txt",
             "playerType": 2,
