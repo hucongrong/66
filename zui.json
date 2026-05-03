@@ -127,7 +127,7 @@
         }, 
  {
             "key": "ppy",
-            "name": "🥜皮皮虾",
+            "name": "🥜界影",
             "type": 3,
             "api": "./界影.py",
             "searchable": 1,
@@ -135,7 +135,29 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
-        },                                      
+        },      
+        {
+            "key": "ppy4",
+            "name": "🥜4K",
+            "type": 3,
+            "api": "./4k.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },                           
+        {
+            "key": "ppy3",
+            "name": "🥜皮皮虾",
+            "type": 3,
+            "api": "./皮虾.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },                                                           
      
    {
             "key": "华数影视",
