@@ -114,7 +114,28 @@
             ]
         },
 {"key":"TVB云播","name":"☁️云播影视","type":3,"changeable":0,"api":"csp_Appfox","jar": "./gua.jar","ext":"http://app.hktvyb.cc"},      
-
+{
+            "key": "4kyf",
+            "name": "🥜4k影视",
+            "type": 3,
+            "api": "./4k.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        }, 
+ {
+            "key": "ppy",
+            "name": "🥜皮皮虾",
+            "type": 3,
+            "api": "./皮虾.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },                                      
      
    {
             "key": "华数影视",
