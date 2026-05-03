@@ -140,7 +140,7 @@
             "key": "ppy4",
             "name": "🥜4K",
             "type": 3,
-            "api": "./4k.py",
+            "api": "./小红薯.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
