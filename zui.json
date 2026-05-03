@@ -116,9 +116,9 @@
 {"key":"TVB云播","name":"☁️云播影视","type":3,"changeable":0,"api":"csp_Appfox","jar": "./gua.jar","ext":"http://app.hktvyb.cc"},      
 {
             "key": "4kyf",
-            "name": "🥜毒口条影视",
+            "name": "🥜回天影视",
             "type": 3,
-            "api": "./4k.py",
+            "api": "./毒口条影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
