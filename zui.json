@@ -13,6 +13,19 @@
             "quickSearch": 0,
             "filterable": 0
         },
+        {
+            "name": "👉漫剧推荐",
+            "key": "MjHggg",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "jar": "./lib/bdb.jar",
+            "indexs": 1,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "comic_series"
+        },
 {
             "key": "橘汁",
             "name": "🍹橘汁APP",
