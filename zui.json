@@ -96,7 +96,7 @@
             "key": "🌿夏天影视",
             "type": 3,
             "api": "csp_NewGrAmns",
-                 "jar": "./bdb.jar",
+                 "jar": "./bdb.png",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
